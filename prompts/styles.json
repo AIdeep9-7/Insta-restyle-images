@@ -188,7 +188,7 @@
    "moody",
    "sunset"
   ],
-  "thumb": "",
+  "thumb": "examples/lofi-dusk.jpg",
   "note": "Instagram's Lofi Dusk is WARM amber, not cold blue.",
   "multi": null,
   "prompt_A": "Use the uploaded photo as the only identity reference. Treat identity preservation as the top priority.\n\nPRESERVE EXACTLY: the same facial structure, eye shape and spacing, nose, lips, jawline, skin tone and age. The same long dark wavy hair. The same cream block-printed kurta with dark brown floral motifs. The same brown, cream and white chevron-ikat dupatta. The same gold floral earring, thin gold chain with small black pendant, stacked silver bangles, henna on the hand. The same pose holding the black phone up in the mirror. The same soft closed-lip smile and red lipstick. The same crop and camera angle.\n\nCHANGE ONLY: re-photograph this at dusk just after sunset. A warm amber-orange sun sits low behind her, throwing a strong glowing golden rim light along the top of her hair and shoulders. Her face sits in soft warm shadow, gently lifted by warm bounce. The space behind becomes a warm dark interior with an orange glow, deep crushed warm shadows. Overall grade warm amber and bronze \u2014 nostalgic, moody, emotional. Cinematic bloom and halation, atmospheric haze, heavy nostalgic film grain, shallow depth of field.\n\nAVOID: do not make the image cold, blue or cyan. Do not change the clothing, jewellery, pose or facial features. No text or watermarks.",
@@ -204,7 +204,7 @@
    "glossy",
    "editorial"
   ],
-  "thumb": "",
+  "thumb": "examples/night-flash.jpg",
   "note": "",
   "multi": null,
   "prompt_A": "Use the uploaded photo as the only identity reference. Treat identity preservation as the top priority. Preserve the exact facial structure and natural skin tone. Do not change her ethnicity.\n\nPRESERVE EXACTLY: the same facial structure, eye shape and spacing, nose, lips, jawline, skin tone and age. The same long dark wavy hair. The same cream block-printed kurta with dark brown floral motifs. The same brown, cream and white chevron-ikat dupatta. The same gold floral earring, thin gold chain with small black pendant, stacked silver bangles, henna on the hand. The same pose holding the black phone up in the mirror. The same soft closed-lip smile and red lipstick. The same crop and camera angle.\n\nCHANGE ONLY: re-photograph this as a night-time direct-flash portrait. Harsh on-camera flash hitting her straight on \u2014 bright glossy highlights on the forehead, nose bridge and cheekbones, luminous even skin, the fabric print crisp and punchy. Hard-edged shadow falling directly behind her. The space behind falls away into a dark moody underexposed night interior with only faint detail. High contrast, saturated colour, crisp sharpness, slight retro digital-camera grain. Glamorous editorial night-out look.\n\nAVOID: do not smooth the skin into plastic, do not reshape the face, do not change eye colour or skin tone, do not change the clothing, jewellery or pose. No text or watermarks.",
@@ -220,7 +220,7 @@
    "soft",
    "painted"
   ],
-  "thumb": "",
+  "thumb": "examples/storybook.jpg",
   "note": "",
   "multi": null,
   "prompt_A": "Use the uploaded photo as the only identity reference. Treat identity preservation as the top priority.\n\nPRESERVE EXACTLY: the same facial structure, eye shape and spacing, nose, lips, jawline, skin tone and age. The same long dark wavy hair. The same cream block-printed kurta with dark brown floral motifs. The same brown, cream and white chevron-ikat dupatta. The same gold floral earring, thin gold chain with small black pendant, stacked silver bangles, henna on the hand. The same pose holding the black phone up in the mirror. The same soft closed-lip smile and red lipstick. The same crop and camera angle.\n\nCHANGE ONLY: redraw the whole image as a soft hand-painted digital illustration in a gentle storybook style. Delicate visible brush texture, soft gouache-like colour blending, gentle warm lighting, slightly muted and desaturated palette, soft rounded edges with light linework. The intricate kurta block-print suggested with loose painted motifs rather than exact detail. The background becomes loose painted impressionistic shapes. Cosy, warm, artistic and calm \u2014 like a modern editorial illustration.\n\nAVOID: do not make it photorealistic, do not make it anime, do not change garment colours or the pose. No text or watermarks.",
@@ -236,7 +236,7 @@
    "warm",
    "night"
   ],
-  "thumb": "",
+  "thumb": "examples/eid-night.jpg",
   "note": "",
   "multi": null,
   "prompt_A": "Use the uploaded photo as the only identity reference. Treat identity preservation as the top priority.\n\nPRESERVE EXACTLY: the same facial structure, eye shape and spacing, nose, lips, jawline, skin tone and age. The same long dark wavy hair. The same cream block-printed kurta with dark brown floral motifs. The same brown, cream and white chevron-ikat dupatta. The same gold floral earring, thin gold chain with small black pendant, stacked silver bangles, henna on the hand. The same pose holding the black phone up in the mirror. The same soft closed-lip smile and red lipstick. The same crop and camera angle.\n\nCHANGE ONLY: place her in a warm Eid night celebration. Behind her, a deep indigo night sky with a thin crescent moon and scattered stars, and rows of glowing ornate hanging lanterns casting warm golden light. Soft bokeh string lights and marigold garlands framing the scene. Relight her face with warm golden lantern glow from the side, with gentle warm rim light on her hair. Festive, intimate and cinematic.\n\nAVOID: do not change her clothing, jewellery, pose or facial features. Do not add different traditional wear or a lehenga. No text or watermarks.",
@@ -246,14 +246,14 @@
   "id": "blue-painterly",
   "name": "Soft Blue Painterly",
   "type": "A",
-  "tier": 3,
+  "tier": 2,
   "tags": [
    "cool",
    "soft",
    "painted"
   ],
-  "thumb": "",
-  "note": "Untested. Only cool-toned style in the set.",
+  "thumb": "examples/blue-painterly.jpg",
+  "note": "The only cool-toned style in the set.",
   "multi": null,
   "prompt_A": "Use the uploaded photo as the only identity reference. Treat identity preservation as the top priority.\n\nPRESERVE EXACTLY: the same facial structure, eye shape and spacing, nose, lips, jawline, skin tone and age. The same long dark wavy hair. The same cream block-printed kurta with dark brown floral motifs. The same brown, cream and white chevron-ikat dupatta. The same gold floral earring, thin gold chain with small black pendant, stacked silver bangles, henna on the hand. The same pose holding the black phone up in the mirror. The same soft closed-lip smile and red lipstick. The same crop and camera angle.\n\nCHANGE ONLY: regrade and relight as a soft cool-toned portrait with a painterly finish. A gentle diffused light from one side, cool blue-grey ambient fill, a soft warm highlight only on the cheekbone and the bridge of the nose so the face still glows against the cool surround. The background becomes a smooth graduated wash of dusty blue and warm sand, softly out of focus, with a subtle shadow shape cast across it. Skin rendered smooth and luminous with visible soft-brush texture in the shading, edges slightly softened as though lightly painted over. Muted, elegant, low-saturation palette apart from the warm skin. Dreamy and still.\n\nAVOID: do not turn this into a cartoon or anime \u2014 it must remain photographic with a painted finish. Do not change the face, clothing, jewellery or pose. Do not oversaturate. No text or watermarks.",
   "prompt_B": "Use the uploaded photo as the only identity reference. Treat identity preservation as the top priority.\n\nPRESERVE EXACTLY: the same facial structure, eye shape and spacing, nose, lips, jawline, skin tone and age. The same shoulder-length dark wavy hair. The same cream block-printed kurta with dark brown floral motifs. The same brown, cream and white chevron-ikat dupatta over one shoulder. The same gold floral earring, thin gold chain with small black pendant, stacked silver bangles. The same pose with both arms raised, hands near the ears. The same downward gaze with eyes closed and red lipstick. The same crop and camera angle.\n\nCHANGE ONLY: regrade and relight as a soft cool-toned portrait with a painterly finish. A gentle diffused light from one side, cool blue-grey ambient fill, a soft warm highlight only on the cheekbone and the bridge of the nose so the face still glows against the cool surround. The background becomes a smooth graduated wash of dusty blue and warm sand, softly out of focus, with a subtle shadow shape cast across it. Skin rendered smooth and luminous with visible soft-brush texture in the shading, edges slightly softened as though lightly painted over. Muted, elegant, low-saturation palette apart from the warm skin. Dreamy and still.\n\nAVOID: do not turn this into a cartoon or anime \u2014 it must remain photographic with a painted finish. Do not change the face, clothing, jewellery or pose. Do not oversaturate. No text or watermarks."
@@ -262,14 +262,14 @@
   "id": "dreamy-diffusion",
   "name": "Dreamy Diffusion",
   "type": "A",
-  "tier": 3,
+  "tier": 2,
   "tags": [
    "soft",
    "glow",
    "night"
   ],
-  "thumb": "",
-  "note": "Untested. Based on ref 1.",
+  "thumb": "examples/dreamy-diffusion.jpg",
+  "note": "Based on ref 1. Light source must stay out of frame.",
   "multi": null,
   "prompt_A": "Use the uploaded photo as the only identity reference. Treat identity preservation as the top priority.\n\nPRESERVE EXACTLY: the same facial structure, eye shape and spacing, nose, lips, jawline, skin tone and age. The same long dark wavy hair. The same cream block-printed kurta with dark brown floral motifs. The same brown, cream and white chevron-ikat dupatta. The same gold floral earring, thin gold chain with small black pendant, stacked silver bangles, henna on the hand. The same pose holding the black phone up in the mirror. The same soft closed-lip smile and red lipstick. The same crop and camera angle.\n\nCHANGE ONLY: re-photograph with a heavy diffusion filter at night. A bright light source behind and to one side blooms strongly into the frame, glowing through her hair and washing a milky veil of light across one part of the image. Highlights blow out softly and bleed into the surrounding areas. The background is deep black with a few soft floating bokeh orbs. Skin is dewy and luminous with soft blush on the cheeks and nose. Her eyes stay the sharpest point in the image while everything else falls into gentle softness. Slight motion blur on the nearest hand and on stray hair, suggesting movement. Warm-neutral grade, gentle grain, glossy and ethereal.\n\nAVOID: do not show the light source itself as a lamp, window or glowing rectangle \u2014 it stays out of frame. Keep the eyes sharp \u2014 do not blur the whole face uniformly. Do not change her face, clothing, jewellery or pose. No text or watermarks.",
   "prompt_B": "Use the uploaded photo as the only identity reference. Treat identity preservation as the top priority.\n\nPRESERVE EXACTLY: the same facial structure, eye shape and spacing, nose, lips, jawline, skin tone and age. The same shoulder-length dark wavy hair. The same cream block-printed kurta with dark brown floral motifs. The same brown, cream and white chevron-ikat dupatta over one shoulder. The same gold floral earring, thin gold chain with small black pendant, stacked silver bangles. The same pose with both arms raised, hands near the ears. The same downward gaze with eyes closed and red lipstick. The same crop and camera angle.\n\nCHANGE ONLY: re-photograph with a heavy diffusion filter at night. A bright light source behind and to one side blooms strongly into the frame, glowing through her hair and washing a milky veil of light across one part of the image. Highlights blow out softly and bleed into the surrounding areas. The background is deep black with a few soft floating bokeh orbs. Skin is dewy and luminous with soft blush on the cheeks and nose. Her eyes stay the sharpest point in the image while everything else falls into gentle softness. Slight motion blur on the nearest hand and on stray hair, suggesting movement. Warm-neutral grade, gentle grain, glossy and ethereal.\n\nAVOID: do not show the light source itself as a lamp, window or glowing rectangle \u2014 it stays out of frame. Keep the eyes sharp \u2014 do not blur the whole face uniformly. Do not change her face, clothing, jewellery or pose. No text or watermarks."
@@ -294,14 +294,14 @@
   "id": "pink-triptych",
   "name": "Soft Pink Triptych",
   "type": "B",
-  "tier": 3,
+  "tier": 2,
   "tags": [
    "pink",
    "soft",
    "multi-panel"
   ],
-  "thumb": "",
-  "note": "Untested. Needs 3 renders + stitching. Needs open eyes \u2014 use Photo A.",
+  "thumb": "examples/pink-triptych.jpg",
+  "note": "Three panels stitched. Needs open eyes \u2014 use Photo A. Middle panel is an eyes-only band.",
   "multi": [
    "a soft warm portrait crop from the chest up, graded with a warm soft-pink cast \u2014 blush tones in the skin, dusty rose in the shadows, a gentle pink glow overall, low contrast and slightly hazy. Soft diffused lighting, dewy luminous skin, warm neutral background. Romantic soft-girl aesthetic. Wide landscape framing.",
    "an extreme close-up horizontal band showing ONLY her eyes and eyebrows, sharp and detailed with visible individual lashes and a bright catchlight. Same warm soft-pink grade, dewy skin. Wide landscape framing, eyes centred.",
@@ -330,8 +330,8 @@
    "macro",
    "multi-panel"
   ],
-  "thumb": "",
-  "note": "Untested. Needs 4 renders + stitching. Based on ref 2.",
+  "thumb": "examples/macro-stack.jpg",
+  "note": "Needs 4 renders + stitching, or use the code version (B&W Macro Stack).",
   "multi": [
    "an extreme macro black and white close-up of one eye only, filling the frame \u2014 sharp individually separated eyelashes, detailed iris with a bright catchlight, the eyebrow above. Deep contrast, creamy shallow bokeh falloff, fine film grain. Wide landscape framing.",
    "a macro black and white close-up of the side of her face and ear showing the ornate earring in sharp detail, with fine strands of hair blowing across her cheek. Deep blacks, luminous highlights, shallow focus. Wide landscape framing.",
