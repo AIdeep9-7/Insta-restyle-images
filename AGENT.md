@@ -84,3 +84,35 @@ failure and its fix in the debug table at the end of `ig-effects-recreated.md`.
 - Image tools usually cap generations per turn (often 10) — batch accordingly.
 - Try code polish (recrop, regrade, restitch) before spending a generation. One stack went 8→9/10
   that way at zero cost.
+
+---
+
+## Reference coverage map (all 13 refs)
+
+| Ref | Style id | Route | State |
+|-----|----------|-------|-------|
+| 1  | `flash` | AI | done |
+| 2  | `macro-stack` / `stack-detail` | code | done |
+| 3  | `blue-painterly` | AI | done |
+| 4  | `amber-veil-stack` | AI ×3 + stitch | done |
+| 5  | `earring-stack` (Golden Hour Room) | AI | done |
+| 6  | `pink-triptych` | AI ×3 + stitch | done — panels 1/3 are near-identical **in the reference too**, so this is correct, not a defect |
+| 7  | `golden-halo` | AI | done — best in project |
+| 8  | `inset-card` | code | done |
+| 9  | `sepia-sunflower` | code + AI | done |
+| 10 | `colour-block` | code | done |
+| 11 | `torn-strips` | code | done |
+| 12 | `poster` | code + rembg | done |
+| 13 | `eye-band` | code | done |
+
+All 13 references are now covered. 26 styles total, every one illustrated.
+
+## Dependencies for the code styles
+
+Pillow and numpy only, except `poster()`, which wants a subject cut-out:
+
+    pip install rembg onnxruntime
+
+Use the **`u2netp`** model. The default `bria-rmbg` model is ~1 GB and is killed by
+the OOM reaper in a 2 GB sandbox. `cutout()` already defaults to `u2netp`.
+Without rembg the poster still renders, just without the break-out cut-out.
